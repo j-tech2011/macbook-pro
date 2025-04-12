@@ -1,5 +1,5 @@
 {
-    "name": "macbook pro",
+    "name": "game pro",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -16,7 +16,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "2.0.40",
+        "target": "2.0.48",
         "targetId": "arcade"
     },
     "supportedTargets": [
